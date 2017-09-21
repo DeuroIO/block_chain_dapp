@@ -1,0 +1,11 @@
+{
+  "name": "blockchain-course-web3",
+  "private": true,
+  "dependencies": {
+    "web3": "^0.18.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
